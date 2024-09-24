@@ -1,2 +1,2 @@
 # Hangman
-Developed a word-guessing game with a graphical interface using Java and AWT, enhancing user experience with intuitive design.
+The Hangman Game is a Java Swing-based application offering an interactive and visually engaging experience. Players can input their names, start the game, and guess a randomly selected word from a predefined list using single-letter inputs. The UI, framed within a 600x400 pixel window, includes text fields for name and guesses, as well as a dynamic HangmanPanel that visually updates with each incorrect attempt. The game handles win/lose outcomes effectively and provides smooth transitions for starting new games, ensuring an adaptable and user-friendly experience.
